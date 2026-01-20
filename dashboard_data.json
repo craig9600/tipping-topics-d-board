@@ -1,0 +1,316 @@
+{
+  "last_updated": "2026-01-20 12:30",
+  "overall_stats": {
+    "total_tips": 423,
+    "wins": 119,
+    "losses": 304,
+    "win_rate": 28.1,
+    "profit": -58.86,
+    "roi": -13.9
+  },
+  "league_breakdown": [
+    {
+      "league": "EPL",
+      "tips": 129,
+      "wins": 41,
+      "win_rate": 31.8,
+      "profit": 12.04,
+      "roi": 9.3
+    },
+    {
+      "league": "Premier League",
+      "tips": 3,
+      "wins": 2,
+      "win_rate": 66.7,
+      "profit": 4.09,
+      "roi": 136.3
+    },
+    {
+      "league": "Ligue 1",
+      "tips": 69,
+      "wins": 25,
+      "win_rate": 36.2,
+      "profit": -5.86,
+      "roi": -8.5
+    },
+    {
+      "league": "Bundesliga",
+      "tips": 37,
+      "wins": 9,
+      "win_rate": 24.3,
+      "profit": -13.62,
+      "roi": -36.8
+    },
+    {
+      "league": "La Liga",
+      "tips": 79,
+      "wins": 20,
+      "win_rate": 25.3,
+      "profit": -24.28,
+      "roi": -30.7
+    },
+    {
+      "league": "Serie A",
+      "tips": 106,
+      "wins": 22,
+      "win_rate": 20.8,
+      "profit": -31.23,
+      "roi": -29.5
+    }
+  ],
+  "market_breakdown": [
+    {
+      "market": "draw",
+      "tips": 20,
+      "wins": 4,
+      "win_rate": 20.0,
+      "profit": -6.1,
+      "roi": -30.5
+    },
+    {
+      "market": "away_win",
+      "tips": 120,
+      "wins": 23,
+      "win_rate": 19.2,
+      "profit": -25.0,
+      "roi": -20.8
+    },
+    {
+      "market": "home_win",
+      "tips": 283,
+      "wins": 92,
+      "win_rate": 32.5,
+      "profit": -27.76,
+      "roi": -9.8
+    }
+  ],
+  "recent_winners": [
+    {
+      "date": "2026-01-18",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Newcastle United",
+      "market": "draw",
+      "odds": 3.94,
+      "league": "Premier League",
+      "profit": 2.42
+    },
+    {
+      "date": "2026-01-18",
+      "home_team": "Real Sociedad",
+      "away_team": "Barcelona",
+      "market": "home_win",
+      "odds": 4.92,
+      "league": "La Liga",
+      "profit": 2.51
+    },
+    {
+      "date": "2026-01-18",
+      "home_team": "Nantes",
+      "away_team": "Paris FC",
+      "market": "away_win",
+      "odds": 2.34,
+      "league": "Ligue 1",
+      "profit": 1.04
+    },
+    {
+      "date": "2026-01-18",
+      "home_team": "Lyon",
+      "away_team": "Brest",
+      "market": "home_win",
+      "odds": 1.59,
+      "league": "Ligue 1",
+      "profit": 0.37
+    },
+    {
+      "date": "2026-01-18",
+      "home_team": "Celta Vigo",
+      "away_team": "Rayo Vallecano",
+      "market": "home_win",
+      "odds": 2.11,
+      "league": "La Liga",
+      "profit": 0.69
+    },
+    {
+      "date": "2026-01-17",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "West Ham United",
+      "market": "away_win",
+      "odds": 5.23,
+      "league": "EPL",
+      "profit": 3.79
+    },
+    {
+      "date": "2026-01-17",
+      "home_team": "Nottingham Forest",
+      "away_team": "Arsenal",
+      "market": "draw",
+      "odds": 4.12,
+      "league": "Premier League",
+      "profit": 2.67
+    },
+    {
+      "date": "2026-01-17",
+      "home_team": "Manchester United",
+      "away_team": "Manchester City",
+      "market": "home_win",
+      "odds": 3.56,
+      "league": "EPL",
+      "profit": 1.54
+    },
+    {
+      "date": "2026-01-17",
+      "home_team": "Leeds United",
+      "away_team": "Fulham",
+      "market": "home_win",
+      "odds": 2.24,
+      "league": "EPL",
+      "profit": 0.68
+    },
+    {
+      "date": "2026-01-17",
+      "home_team": "Cagliari",
+      "away_team": "Juventus",
+      "market": "home_win",
+      "odds": 6.44,
+      "league": "Serie A",
+      "profit": 4.31
+    }
+  ],
+  "monthly_performance": [
+    {
+      "month": "2025-05",
+      "tips": 24,
+      "wins": 6,
+      "profit": 4.41,
+      "cumulative_profit": 4.41
+    },
+    {
+      "month": "2025-08",
+      "tips": 42,
+      "wins": 12,
+      "profit": 6.54,
+      "cumulative_profit": 10.95
+    },
+    {
+      "month": "2025-09",
+      "tips": 51,
+      "wins": 16,
+      "profit": -9.63,
+      "cumulative_profit": 1.32
+    },
+    {
+      "month": "2025-10",
+      "tips": 66,
+      "wins": 21,
+      "profit": -2.29,
+      "cumulative_profit": -0.97
+    },
+    {
+      "month": "2025-11",
+      "tips": 86,
+      "wins": 19,
+      "profit": -29.89,
+      "cumulative_profit": -30.86
+    },
+    {
+      "month": "2025-12",
+      "tips": 85,
+      "wins": 29,
+      "profit": 0.05,
+      "cumulative_profit": -30.81
+    },
+    {
+      "month": "2026-01",
+      "tips": 69,
+      "wins": 16,
+      "profit": -28.05,
+      "cumulative_profit": -58.86
+    }
+  ],
+  "streak": {
+    "type": "lose",
+    "count": 3
+  },
+  "pending_tips": [
+    {
+      "date": "2026-01-10 00:00",
+      "home_team": "FC St. Pauli",
+      "away_team": "RB Leipzig",
+      "market": "home_win",
+      "odds": 3.74,
+      "league": "Bundesliga"
+    },
+    {
+      "date": "2026-01-10 00:00",
+      "home_team": "Werder Bremen",
+      "away_team": "TSG Hoffenheim",
+      "market": "home_win",
+      "odds": 2.77,
+      "league": "Bundesliga"
+    },
+    {
+      "date": "2026-01-13 00:00",
+      "home_team": "Hamburger SV",
+      "away_team": "Bayer Leverkusen",
+      "market": "home_win",
+      "odds": 3.28,
+      "league": "Bundesliga"
+    },
+    {
+      "date": "2026-01-23 00:00",
+      "home_team": "Auxerre",
+      "away_team": "Paris Saint Germain",
+      "market": "home_win",
+      "odds": 8.99,
+      "league": "Ligue 1"
+    },
+    {
+      "date": "2026-01-23 00:00",
+      "home_team": "FC St. Pauli",
+      "away_team": "Hamburger SV",
+      "market": "home_win",
+      "odds": 2.44,
+      "league": "Bundesliga"
+    },
+    {
+      "date": "2026-01-24 00:00",
+      "home_team": "Fulham",
+      "away_team": "Brighton and Hove Albion",
+      "market": "home_win",
+      "odds": 2.5,
+      "league": "Premier League"
+    },
+    {
+      "date": "2026-01-24 00:00",
+      "home_team": "Manchester City",
+      "away_team": "Wolverhampton Wanderers",
+      "market": "draw",
+      "odds": 7.92,
+      "league": "EPL"
+    },
+    {
+      "date": "2026-01-24 00:00",
+      "home_team": "1. FC Heidenheim",
+      "away_team": "RB Leipzig",
+      "market": "draw",
+      "odds": 4.17,
+      "league": "Bundesliga"
+    },
+    {
+      "date": "2026-01-24 00:00",
+      "home_team": "Villarreal",
+      "away_team": "Real Madrid",
+      "market": "home_win",
+      "odds": 3.25,
+      "league": "La Liga"
+    },
+    {
+      "date": "2026-01-24 00:00",
+      "home_team": "Union Berlin",
+      "away_team": "Borussia Dortmund",
+      "market": "home_win",
+      "odds": 3.82,
+      "league": "Bundesliga"
+    }
+  ]
+}
