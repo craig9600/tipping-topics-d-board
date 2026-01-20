@@ -1,0 +1,44 @@
+{
+  "last_updated": "2025-01-20 14:30",
+  "overall_stats": {
+    "total_tips": 45,
+    "wins": 18,
+    "losses": 27,
+    "win_rate": 40.0,
+    "profit": 12.50,
+    "roi": 5.2
+  },
+  "league_breakdown": [
+    {"league": "Premier League", "tips": 15, "wins": 7, "win_rate": 46.7, "profit": 8.20, "roi": 12.8},
+    {"league": "La Liga", "tips": 10, "wins": 4, "win_rate": 40.0, "profit": 3.50, "roi": 8.5},
+    {"league": "Ligue 1", "tips": 8, "wins": 3, "win_rate": 37.5, "profit": 1.20, "roi": 2.1},
+    {"league": "Serie A", "tips": 7, "wins": 2, "win_rate": 28.6, "profit": -0.80, "roi": -3.2},
+    {"league": "Bundesliga", "tips": 5, "wins": 2, "win_rate": 40.0, "profit": 0.40, "roi": 1.5}
+  ],
+  "market_breakdown": [
+    {"market": "home_win", "tips": 30, "wins": 14, "win_rate": 46.7, "profit": 10.50, "roi": 8.2},
+    {"market": "away_win", "tips": 10, "wins": 3, "win_rate": 30.0, "profit": 1.50, "roi": 3.1},
+    {"market": "draw", "tips": 5, "wins": 1, "win_rate": 20.0, "profit": 0.50, "roi": 2.0}
+  ],
+  "recent_winners": [
+    {"date": "2025-01-18", "home_team": "Liverpool", "away_team": "Brentford", "market": "home_win", "odds": 1.85, "league": "Premier League", "profit": 0.85},
+    {"date": "2025-01-15", "home_team": "Barcelona", "away_team": "Getafe", "market": "home_win", "odds": 1.65, "league": "La Liga", "profit": 0.65},
+    {"date": "2025-01-12", "home_team": "PSG", "away_team": "Toulouse", "market": "home_win", "odds": 1.45, "league": "Ligue 1", "profit": 0.45},
+    {"date": "2025-01-10", "home_team": "Arsenal", "away_team": "Brighton", "market": "home_win", "odds": 2.10, "league": "Premier League", "profit": 1.10},
+    {"date": "2025-01-08", "home_team": "Real Madrid", "away_team": "Villarreal", "market": "home_win", "odds": 1.75, "league": "La Liga", "profit": 0.75}
+  ],
+  "monthly_performance": [
+    {"month": "2024-10", "tips": 12, "wins": 4, "profit": -2.50, "cumulative_profit": -2.50},
+    {"month": "2024-11", "tips": 15, "wins": 6, "profit": 3.20, "cumulative_profit": 0.70},
+    {"month": "2024-12", "tips": 10, "wins": 4, "profit": 5.80, "cumulative_profit": 6.50},
+    {"month": "2025-01", "tips": 8, "wins": 4, "profit": 6.00, "cumulative_profit": 12.50}
+  ],
+  "streak": {
+    "type": "win",
+    "count": 3
+  },
+  "pending_tips": [
+    {"date": "2025-01-21 15:00", "home_team": "Manchester City", "away_team": "Chelsea", "market": "home_win", "odds": 1.72, "league": "Premier League"},
+    {"date": "2025-01-22 20:00", "home_team": "Atletico Madrid", "away_team": "Sevilla", "market": "home_win", "odds": 1.95, "league": "La Liga"}
+  ]
+}
